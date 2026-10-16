@@ -4,11 +4,11 @@
 
 I build backend-heavy web applications and LLM-powered systems that are measured rather than guessed. I like clean APIs, readable code and understanding how things work under the hood.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phuong-le77100) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phuong.le77100@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phuong-le77100) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pl@phuong-le.dev)
 
 ## 🔭 What I'm into
 
-- Retrieval, reranking, evaluation and tool-calling agents, built without hiding behind a framework
+- Retrieval, reranking, evaluatixon and tool-calling agents, built without hiding behind a framework
 - Clean, tested, well-documented APIs and full-stack apps
 - Low-level curiosity: compilers, networking, C
 
