@@ -1,6 +1,6 @@
 # Hi, I'm Phuong 👋
 
-**Software developer · Java / Spring Boot · React · applied AI**
+**Software developer · Java / Spring Boot · applied AI**
 
 I build backend-heavy web applications and LLM-powered systems that are measured rather than guessed. I like clean APIs, readable code and understanding how things work under the hood.
 
