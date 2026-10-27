@@ -4,7 +4,9 @@
 
 I build backend-heavy web applications and LLM-powered systems that are measured rather than guessed. I like clean APIs, readable code and understanding how things work under the hood.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-phuong--tech.dev-5B94FF?logo=googlechrome&logoColor=white)](https://phuong-tech.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phuong-le77100) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pl@phuong-le.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5B94FF?logo=googlechrome&logoColor=white)](https://phuong-tech.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phuong-le77100) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pl@phuong-le.dev)
 
 ## 🔭 What I'm into
 
