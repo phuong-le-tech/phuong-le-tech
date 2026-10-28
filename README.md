@@ -15,6 +15,7 @@ I build backend-heavy web applications and LLM-powered systems that are measured
 - Shipping them like any other software: clean, tested, well-documented APIs and full-stack apps (Java / Spring Boot, Python / FastAPI)
 - Currently learning: multi-agent systems and MCP, LLMOps (gateways, caching, observability), LoRA fine-tuning
 - Low-level curiosity: compilers, networking, C
+- Side quest: building a farm in Switzerland 🐐
 
 ## 🚀 Featured projects
 
