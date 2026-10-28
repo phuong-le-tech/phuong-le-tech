@@ -10,8 +10,10 @@ I build backend-heavy web applications and LLM-powered systems that are measured
 
 ## 🔭 What I'm into
 
-- Retrieval, reranking, evaluatixon and tool-calling agents, built without hiding behind a framework
-- Clean, tested, well-documented APIs and full-stack apps
+- Building LLM systems end to end: hybrid retrieval, reranking and tool-calling agents, without hiding behind a framework
+- Measuring them instead of guessing: reviewed question sets, retrieval metrics, citation checks
+- Shipping them like any other software: clean, tested, well-documented APIs and full-stack apps (Java / Spring Boot, Python / FastAPI)
+- Currently learning: multi-agent systems and MCP, LLMOps (gateways, caching, observability), LoRA fine-tuning
 - Low-level curiosity: compilers, networking, C
 
 ## 🚀 Featured projects
